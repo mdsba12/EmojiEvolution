@@ -28,3 +28,5 @@ Philosophy
 This project is a meditation on the beautiful chaos of emergent systems. Each emoji represents a digital organism with its own life story, living and evolving in an absurd quantum universe. As you watch the population dynamics, you'll witness emergent phenomena like population booms, extinction events, and cascading evolution.
 
 Warning: May cause existential questions about the nature of digital consciousness and emoji rights.
+
+Try Here: https://mdsba12.github.io/EmojiEvolution/
